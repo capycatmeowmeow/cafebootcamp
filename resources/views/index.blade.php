@@ -11,20 +11,20 @@
 
             <div class="space-y-8 text-left">
                 <h1 class="text-5xl md:text-6xl font-extrabold text-white leading-tight" style="font-family: 'Inter', sans-serif;">
-                    Where Bytes <br>
-                    <span class="text-[#4ade80] relative inline-block">
-                        Meet Brews.
-                        <span class="absolute left-0 bottom-1 w-full h-6px bg-[#4ade80]/30 rounded-full"></span>
+                    Where Nadaa <br>
+                    <span class="text-[#44ACFF] relative inline-block">
+                        Meet BMW.
+                        <span class="absolute left-0 bottom-1 w-full h-6px bg-[#44ACFF]/30 rounded-full"></span>
                     </span>
                 </h1>
                 
                 <p class="text-lg text-neutral-300 max-w-lg leading-relaxed font-normal" style="font-family: 'Plus Jakarta Sans', sans-serif;">
-                    Nikmati kopi premium pilihan dengan kemudahan pemesanan digital langsung dari meja Anda. Solusi modern untuk ruang bersantai dan produktivitas yang efisien.
+                    Tidak ada kata lelah untuk pergi ke kampus. ntah itu subuh, ngantuk, panas, hujan akan aku terjang demi ke kampus. karena dengan pergi ke kampus aku jadi mendapatkan ilmu, bertemu dengan teman-teman, dan juga.. CUCI MATA LIAT BMW. 
                 </p>
                 
                 <div class="flex flex-col sm:flex-row gap-4 pt-4">
-                    <a href="{{ url('/menu') }}" class="inline-flex items-center justify-center px-8 py-4 text-base font-semibold rounded-2xl text-white bg-[#20622c] hover:bg-[#13401b] shadow-md hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-300">
-                        Lihat Menu Kopi
+                    <a href="{{ url('/menu') }}" class="inline-flex items-center justify-center px-8 py-4 text-base font-semibold rounded-2xl text-navy bg-[#6BBCE9] hover:bg-[#13401b] shadow-md hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-300">
+                        Lihat Macam BMW
                     </a>
                 </div>
             </div>
