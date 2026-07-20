@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>@yield('title', 'Byte & Brew') - Coffee & Eatery</title>
+    <title>@yield('title', 'Byte & Brew') - BMW</title>
     <link rel="icon" type="image/svg+xml" href="{{ asset('assets/images/BMW.png') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
