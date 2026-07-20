@@ -2,7 +2,7 @@
 @section('title','Beranda')
 @section('content')
 <div class="relative overflow-hidden bg-cover bg-center bg-no-repeat pt-12 pb-24 md:py-32 border-b border-[#ebdcb9]/30" 
-     style="background-image: url('{{ asset('assets/images/Hero.png') }}');">
+     style="background-image: url('{{ asset('assets/images/BMW_bg.png') }}');">
     
 
     <div class="absolute inset-0 bg-black/75 backdrop-blur-[2px]"></div>
@@ -19,7 +19,7 @@
                 </h1>
                 
                 <p class="text-lg text-neutral-300 max-w-lg leading-relaxed font-normal" style="font-family: 'Plus Jakarta Sans', sans-serif;">
-                    Tidak ada kata lelah untuk pergi ke kampus. ntah itu subuh, ngantuk, panas, hujan akan aku terjang demi ke kampus. karena dengan pergi ke kampus aku jadi mendapatkan ilmu, bertemu dengan teman-teman, dan juga.. CUCI MATA LIAT BMW. 
+                    Tidak ada kata lelah untuk pergi ke kampus. ntah itu subuh, masih ngantuk, panas, hujan, dll semua akan aku terjang demi ke kampus. karena dengan pergi ke kampus aku bisa mendapatkan ilmu, bertemu dengan teman-teman, dan juga.. BISA CUCI MATA LIAT BMW. 
                 </p>
                 
                 <div class="flex flex-col sm:flex-row gap-4 pt-4">

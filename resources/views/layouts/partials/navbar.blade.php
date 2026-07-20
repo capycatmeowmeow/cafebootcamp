@@ -3,7 +3,7 @@
         <div class="flex justify-between h-20">
             <div class="flex items-center">
                 <a href="{{ url('/') }}" class="flex items-center space-x-3 group">
-                    <img src="{{ asset('assets/images/Byte&Brew.png') }}" alt="Logo Byte & Brew" class="h-12 w-auto object-contain">
+                    <img src="{{ asset('assets/images/BMW.png') }}" alt="Logo Byte & Brew" class="h-12 w-auto object-contain">
                     <div class="flex flex-col justify-center leading-none">
                         <span class="text-xl font-bold text-neutral-800 group-hover:text-[#20622c] transition-colors duration-300">
                             BMW
