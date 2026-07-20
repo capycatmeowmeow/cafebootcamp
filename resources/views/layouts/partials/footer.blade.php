@@ -4,7 +4,7 @@
             
             <div class="col-span-1 md:col-span-2 space-y-4">
                 <div class="flex items-center space-x-3">
-                    <img src="{{ asset('assets/images/Byte&Brew.png') }}" alt="Logo Byte & Brew" class="h-10 w-auto object-contain">
+                    <img src="{{ asset('assets/images/BMW.png') }}" alt="Logo Byte & Brew" class="h-10 w-auto object-contain">
                     <div class="flex flex-col justify-center leading-none">
                         <span class="text-lg font-bold text-neutral-800 tracking-wide">Byte & Brew</span>
                         <span class="text-[9px] tracking-widest text-[#20622c] uppercase font-semibold mt-0.5">Coffee & Eatery</span>
