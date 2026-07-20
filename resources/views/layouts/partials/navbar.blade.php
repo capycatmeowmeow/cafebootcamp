@@ -29,7 +29,7 @@
                     Galeri
                 </a>
                 <a href="{{ url('/order/dine-in') }}" class="inline-flex items-center justify-center px-4 py-2 text-sm font-semibold rounded-xl text-navy bg-[#6BBCE9] hover:bg-[#003A70] transition-all duration-300 shadow-sm {{ Request::is('order/dine-in') ? 'ring-2 ring-[#ebdcb9] bg-[#184620]' : '' }}">
-                    Buy Now
+                    My BMW
                 </a>
 
             </div>
