@@ -24,7 +24,7 @@
                 
                 <div class="flex flex-col sm:flex-row gap-4 pt-4">
                     <a href="{{ url('/menu') }}" class="inline-flex items-center justify-center px-8 py-4 text-base font-semibold rounded-2xl text-navy bg-[#6BBCE9] hover:bg-[#13401b] shadow-md hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-300">
-                        Lihat Macam BMW
+                        Check My BMW
                     </a>
                 </div>
             </div>
